@@ -1,0 +1,19 @@
+{
+    "ville": "Tokyo",
+    "evenement1": {
+        "ville": "Tokyo",
+        "secousse": true,
+        "magnitude": 5.2,
+        "tension entre plaque": 1.0,
+        "time": "01:18:00"
+    },
+    "evenement2": {
+        "ville": "Tokyo",
+        "secousse": true,
+        "magnitude": 5.7,
+        "tension entre plaque": 1.0,
+        "time": "00:34:00"
+    },
+    "correlation": "Les deux \u00e9v\u00e9nements n'ont pas la m\u00eame magnitude",
+    "difference": -0.5
+}

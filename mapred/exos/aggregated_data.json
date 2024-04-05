@@ -1,0 +1,611 @@
+{
+    "Istanbul": {
+        "ville": "Istanbul",
+        "amplitude": 7.1,
+        "evenements_importants": [
+            {
+                "ville": "Istanbul",
+                "secousse": true,
+                "magnitude": 5.7,
+                "tension entre plaque": 1.1,
+                "time": "00:23:00"
+            },
+            {
+                "ville": "Istanbul",
+                "secousse": true,
+                "magnitude": 6.4,
+                "tension entre plaque": 1.1,
+                "time": "02:17:00"
+            },
+            {
+                "ville": "Istanbul",
+                "secousse": true,
+                "magnitude": 6.5,
+                "tension entre plaque": 1.0,
+                "time": "02:16:00"
+            },
+            {
+                "ville": "Istanbul",
+                "secousse": true,
+                "magnitude": 6.5,
+                "tension entre plaque": 1.1,
+                "time": "01:38:00"
+            },
+            {
+                "ville": "Istanbul",
+                "secousse": true,
+                "magnitude": 6.6,
+                "tension entre plaque": 1.0,
+                "time": "02:47:00"
+            },
+            {
+                "ville": "Istanbul",
+                "secousse": true,
+                "magnitude": 6.7,
+                "tension entre plaque": 1.1,
+                "time": "01:02:00"
+            },
+            {
+                "ville": "Istanbul",
+                "secousse": true,
+                "magnitude": 6.8,
+                "tension entre plaque": 1.0,
+                "time": "02:48:00"
+            },
+            {
+                "ville": "Istanbul",
+                "secousse": true,
+                "magnitude": 7.0,
+                "tension entre plaque": 1.0,
+                "time": "00:21:00"
+            },
+            {
+                "ville": "Istanbul",
+                "secousse": true,
+                "magnitude": 7.1,
+                "tension entre plaque": 1.0,
+                "time": "01:55:00"
+            }
+        ],
+        "aggregated_by_time": {
+            "00": {
+                "count": 2,
+                "total_magnitude": 12.7,
+                "max_magnitude": 7.0,
+                "average_magnitude": 6.35
+            },
+            "02": {
+                "count": 4,
+                "total_magnitude": 26.3,
+                "max_magnitude": 6.8,
+                "average_magnitude": 6.575
+            },
+            "01": {
+                "count": 3,
+                "total_magnitude": 20.299999999999997,
+                "max_magnitude": 7.1,
+                "average_magnitude": 6.766666666666666
+            }
+        }
+    },
+    "Los Angeles": {
+        "ville": "Los Angeles",
+        "amplitude": 8.0,
+        "evenements_importants": [
+            {
+                "ville": "Los Angeles",
+                "secousse": true,
+                "magnitude": 5.0,
+                "tension entre plaque": 1.0,
+                "time": "01:44:00"
+            },
+            {
+                "ville": "Los Angeles",
+                "secousse": true,
+                "magnitude": 5.2,
+                "tension entre plaque": 1.0,
+                "time": "02:47:00"
+            },
+            {
+                "ville": "Los Angeles",
+                "secousse": true,
+                "magnitude": 5.2,
+                "tension entre plaque": 1.0,
+                "time": "03:19:00"
+            },
+            {
+                "ville": "Los Angeles",
+                "secousse": true,
+                "magnitude": 5.6,
+                "tension entre plaque": 1.0,
+                "time": "00:56:00"
+            },
+            {
+                "ville": "Los Angeles",
+                "secousse": true,
+                "magnitude": 5.7,
+                "tension entre plaque": 1.0,
+                "time": "01:17:00"
+            },
+            {
+                "ville": "Los Angeles",
+                "secousse": true,
+                "magnitude": 5.7,
+                "tension entre plaque": 1.0,
+                "time": "02:46:00"
+            },
+            {
+                "ville": "Los Angeles",
+                "secousse": true,
+                "magnitude": 6.1,
+                "tension entre plaque": 1.1,
+                "time": "02:22:00"
+            },
+            {
+                "ville": "Los Angeles",
+                "secousse": true,
+                "magnitude": 6.5,
+                "tension entre plaque": 1.1,
+                "time": "02:10:00"
+            },
+            {
+                "ville": "Los Angeles",
+                "secousse": true,
+                "magnitude": 6.8,
+                "tension entre plaque": 1.0,
+                "time": "00:58:00"
+            },
+            {
+                "ville": "Los Angeles",
+                "secousse": true,
+                "magnitude": 7.0,
+                "tension entre plaque": 1.1,
+                "time": "00:06:00"
+            },
+            {
+                "ville": "Los Angeles",
+                "secousse": true,
+                "magnitude": 7.0,
+                "tension entre plaque": 1.1,
+                "time": "02:48:00"
+            },
+            {
+                "ville": "Los Angeles",
+                "secousse": true,
+                "magnitude": 7.7,
+                "tension entre plaque": 1.0,
+                "time": "03:18:00"
+            },
+            {
+                "ville": "Los Angeles",
+                "secousse": true,
+                "magnitude": 8.0,
+                "tension entre plaque": 1.1,
+                "time": "01:21:00"
+            },
+            {
+                "ville": "Los Angeles",
+                "secousse": true,
+                "magnitude": 8.0,
+                "tension entre plaque": 1.1,
+                "time": "01:47:00"
+            }
+        ],
+        "aggregated_by_time": {
+            "01": {
+                "count": 4,
+                "total_magnitude": 26.7,
+                "max_magnitude": 8.0,
+                "average_magnitude": 6.675
+            },
+            "02": {
+                "count": 5,
+                "total_magnitude": 30.5,
+                "max_magnitude": 7.0,
+                "average_magnitude": 6.1
+            },
+            "03": {
+                "count": 2,
+                "total_magnitude": 12.9,
+                "max_magnitude": 7.7,
+                "average_magnitude": 6.45
+            },
+            "00": {
+                "count": 3,
+                "total_magnitude": 19.4,
+                "max_magnitude": 7.0,
+                "average_magnitude": 6.466666666666666
+            }
+        }
+    },
+    "Mexico": {
+        "ville": "Mexico",
+        "amplitude": 7.9,
+        "evenements_importants": [
+            {
+                "ville": "Mexico",
+                "secousse": true,
+                "magnitude": 5.0,
+                "tension entre plaque": 1.1,
+                "time": "03:01:00"
+            },
+            {
+                "ville": "Mexico",
+                "secousse": true,
+                "magnitude": 5.2,
+                "tension entre plaque": 1.1,
+                "time": "01:27:00"
+            },
+            {
+                "ville": "Mexico",
+                "secousse": true,
+                "magnitude": 5.2,
+                "tension entre plaque": 1.1,
+                "time": "01:59:00"
+            },
+            {
+                "ville": "Mexico",
+                "secousse": true,
+                "magnitude": 5.6,
+                "tension entre plaque": 1.1,
+                "time": "01:12:00"
+            },
+            {
+                "ville": "Mexico",
+                "secousse": true,
+                "magnitude": 5.7,
+                "tension entre plaque": 1.0,
+                "time": "00:39:00"
+            },
+            {
+                "ville": "Mexico",
+                "secousse": true,
+                "magnitude": 5.8,
+                "tension entre plaque": 1.0,
+                "time": "02:38:00"
+            },
+            {
+                "ville": "Mexico",
+                "secousse": true,
+                "magnitude": 6.0,
+                "tension entre plaque": 1.1,
+                "time": "02:42:00"
+            },
+            {
+                "ville": "Mexico",
+                "secousse": true,
+                "magnitude": 6.1,
+                "tension entre plaque": 1.0,
+                "time": "02:11:00"
+            },
+            {
+                "ville": "Mexico",
+                "secousse": true,
+                "magnitude": 6.1,
+                "tension entre plaque": 1.1,
+                "time": "01:06:00"
+            },
+            {
+                "ville": "Mexico",
+                "secousse": true,
+                "magnitude": 6.2,
+                "tension entre plaque": 1.0,
+                "time": "00:30:00"
+            },
+            {
+                "ville": "Mexico",
+                "secousse": true,
+                "magnitude": 6.4,
+                "tension entre plaque": 1.1,
+                "time": "01:50:00"
+            },
+            {
+                "ville": "Mexico",
+                "secousse": true,
+                "magnitude": 6.5,
+                "tension entre plaque": 1.1,
+                "time": "00:53:00"
+            },
+            {
+                "ville": "Mexico",
+                "secousse": true,
+                "magnitude": 7.0,
+                "tension entre plaque": 1.0,
+                "time": "02:57:00"
+            },
+            {
+                "ville": "Mexico",
+                "secousse": true,
+                "magnitude": 7.6,
+                "tension entre plaque": 1.1,
+                "time": "00:41:00"
+            },
+            {
+                "ville": "Mexico",
+                "secousse": true,
+                "magnitude": 7.7,
+                "tension entre plaque": 1.0,
+                "time": "00:28:00"
+            },
+            {
+                "ville": "Mexico",
+                "secousse": true,
+                "magnitude": 7.9,
+                "tension entre plaque": 1.1,
+                "time": "02:12:00"
+            }
+        ],
+        "aggregated_by_time": {
+            "03": {
+                "count": 1,
+                "total_magnitude": 5.0,
+                "max_magnitude": 5.0,
+                "average_magnitude": 5.0
+            },
+            "01": {
+                "count": 5,
+                "total_magnitude": 28.5,
+                "max_magnitude": 6.4,
+                "average_magnitude": 5.7
+            },
+            "00": {
+                "count": 5,
+                "total_magnitude": 33.7,
+                "max_magnitude": 7.7,
+                "average_magnitude": 6.74
+            },
+            "02": {
+                "count": 5,
+                "total_magnitude": 32.8,
+                "max_magnitude": 7.9,
+                "average_magnitude": 6.56
+            }
+        }
+    },
+    "San Francisco": {
+        "ville": "San Francisco",
+        "amplitude": 7.8,
+        "evenements_importants": [
+            {
+                "ville": "San Francisco",
+                "secousse": true,
+                "magnitude": 5.5,
+                "tension entre plaque": 1.1,
+                "time": "00:14:00"
+            },
+            {
+                "ville": "San Francisco",
+                "secousse": true,
+                "magnitude": 5.7,
+                "tension entre plaque": 1.1,
+                "time": "02:36:00"
+            },
+            {
+                "ville": "San Francisco",
+                "secousse": true,
+                "magnitude": 5.8,
+                "tension entre plaque": 1.1,
+                "time": "03:02:00"
+            },
+            {
+                "ville": "San Francisco",
+                "secousse": true,
+                "magnitude": 6.9,
+                "tension entre plaque": 1.1,
+                "time": "01:20:00"
+            },
+            {
+                "ville": "San Francisco",
+                "secousse": true,
+                "magnitude": 7.3,
+                "tension entre plaque": 1.1,
+                "time": "02:43:00"
+            },
+            {
+                "ville": "San Francisco",
+                "secousse": true,
+                "magnitude": 7.4,
+                "tension entre plaque": 1.0,
+                "time": "01:36:00"
+            },
+            {
+                "ville": "San Francisco",
+                "secousse": true,
+                "magnitude": 7.5,
+                "tension entre plaque": 1.0,
+                "time": "00:11:00"
+            },
+            {
+                "ville": "San Francisco",
+                "secousse": true,
+                "magnitude": 7.5,
+                "tension entre plaque": 1.0,
+                "time": "02:42:00"
+            },
+            {
+                "ville": "San Francisco",
+                "secousse": true,
+                "magnitude": 7.8,
+                "tension entre plaque": 1.1,
+                "time": "00:53:00"
+            }
+        ],
+        "aggregated_by_time": {
+            "00": {
+                "count": 3,
+                "total_magnitude": 20.8,
+                "max_magnitude": 7.8,
+                "average_magnitude": 6.933333333333334
+            },
+            "02": {
+                "count": 3,
+                "total_magnitude": 20.5,
+                "max_magnitude": 7.5,
+                "average_magnitude": 6.833333333333333
+            },
+            "03": {
+                "count": 1,
+                "total_magnitude": 5.8,
+                "max_magnitude": 5.8,
+                "average_magnitude": 5.8
+            },
+            "01": {
+                "count": 2,
+                "total_magnitude": 14.3,
+                "max_magnitude": 7.4,
+                "average_magnitude": 7.15
+            }
+        }
+    },
+    "Tokyo": {
+        "ville": "Tokyo",
+        "amplitude": 7.5,
+        "evenements_importants": [
+            {
+                "ville": "Tokyo",
+                "secousse": true,
+                "magnitude": 5.2,
+                "tension entre plaque": 1.0,
+                "time": "01:18:00"
+            },
+            {
+                "ville": "Tokyo",
+                "secousse": true,
+                "magnitude": 5.7,
+                "tension entre plaque": 1.0,
+                "time": "00:34:00"
+            },
+            {
+                "ville": "Tokyo",
+                "secousse": true,
+                "magnitude": 5.7,
+                "tension entre plaque": 1.1,
+                "time": "03:13:00"
+            },
+            {
+                "ville": "Tokyo",
+                "secousse": true,
+                "magnitude": 6.1,
+                "tension entre plaque": 1.0,
+                "time": "01:01:00"
+            },
+            {
+                "ville": "Tokyo",
+                "secousse": true,
+                "magnitude": 6.2,
+                "tension entre plaque": 1.1,
+                "time": "01:31:00"
+            },
+            {
+                "ville": "Tokyo",
+                "secousse": true,
+                "magnitude": 6.5,
+                "tension entre plaque": 1.1,
+                "time": "00:06:00"
+            },
+            {
+                "ville": "Tokyo",
+                "secousse": true,
+                "magnitude": 6.5,
+                "tension entre plaque": 1.1,
+                "time": "01:12:00"
+            },
+            {
+                "ville": "Tokyo",
+                "secousse": true,
+                "magnitude": 6.8,
+                "tension entre plaque": 1.0,
+                "time": "01:02:00"
+            },
+            {
+                "ville": "Tokyo",
+                "secousse": true,
+                "magnitude": 6.9,
+                "tension entre plaque": 1.1,
+                "time": "01:37:00"
+            },
+            {
+                "ville": "Tokyo",
+                "secousse": true,
+                "magnitude": 7.1,
+                "tension entre plaque": 1.0,
+                "time": "00:40:00"
+            },
+            {
+                "ville": "Tokyo",
+                "secousse": true,
+                "magnitude": 7.1,
+                "tension entre plaque": 1.1,
+                "time": "01:22:00"
+            },
+            {
+                "ville": "Tokyo",
+                "secousse": true,
+                "magnitude": 7.2,
+                "tension entre plaque": 1.1,
+                "time": "01:03:00"
+            },
+            {
+                "ville": "Tokyo",
+                "secousse": true,
+                "magnitude": 7.2,
+                "tension entre plaque": 1.1,
+                "time": "02:38:00"
+            },
+            {
+                "ville": "Tokyo",
+                "secousse": true,
+                "magnitude": 7.2,
+                "tension entre plaque": 1.1,
+                "time": "02:58:00"
+            },
+            {
+                "ville": "Tokyo",
+                "secousse": true,
+                "magnitude": 7.3,
+                "tension entre plaque": 1.1,
+                "time": "00:23:00"
+            },
+            {
+                "ville": "Tokyo",
+                "secousse": true,
+                "magnitude": 7.3,
+                "tension entre plaque": 1.1,
+                "time": "00:48:00"
+            },
+            {
+                "ville": "Tokyo",
+                "secousse": true,
+                "magnitude": 7.5,
+                "tension entre plaque": 1.1,
+                "time": "01:56:00"
+            }
+        ],
+        "aggregated_by_time": {
+            "01": {
+                "count": 9,
+                "total_magnitude": 59.50000000000001,
+                "max_magnitude": 7.5,
+                "average_magnitude": 6.611111111111112
+            },
+            "00": {
+                "count": 5,
+                "total_magnitude": 33.9,
+                "max_magnitude": 7.3,
+                "average_magnitude": 6.779999999999999
+            },
+            "03": {
+                "count": 1,
+                "total_magnitude": 5.7,
+                "max_magnitude": 5.7,
+                "average_magnitude": 5.7
+            },
+            "02": {
+                "count": 2,
+                "total_magnitude": 14.4,
+                "max_magnitude": 7.2,
+                "average_magnitude": 7.2
+            }
+        }
+    }
+}
